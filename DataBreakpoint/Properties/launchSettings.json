@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataBreakpoint": {
+      "commandName": "Project",
+      "commandLineArgs": "10000"
+    }
+  }
+}
